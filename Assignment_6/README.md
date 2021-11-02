@@ -65,16 +65,16 @@ Batch normalization is a method that normalizes activations in a network across 
 **Test Accuracy graph for all the three techniques:**       
 ![test_accuracy.PNG](images/test_accuracy.PNG)
             
-            
+
 ## **5. COLLECTION OF MISCLASSIFIED IMAGES:**
 
-**Misclassified Images in case of "Group Normalization":**    
+### **Misclassified Images in case of "Group Normalization":**
 ![group_misclassified_image.PNG](images/misclassified_for_group.PNG)          
        
 
-**Misclassified Images in case of "Layer Normalization":**       
+### **Misclassified Images in case of "Layer Normalization":**       
 ![layer_misclassified_image.PNG](images/misclassified_for_layer.PNG)    
         
 
-**Misclassified Images in case of "L1 + Batch Normalization":**           
+### **Misclassified Images in case of "L1 + Batch Normalization":**           
 ![batch_misclassified_image.PNG](images/misclassified_for_batch.PNG)            
