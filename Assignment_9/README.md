@@ -185,22 +185,22 @@ Loss=0.07467161118984222 Batch_id=97 Accuracy=98.21: 100%|███████�
 Test set: Average loss: 0.0005, Accuracy: 9230/10000 (92.30%)
 ```
 ### **Graphs**      
-![accuracy_graph.PNG]()       
+![accuracy_graph.PNG](images\accuracy_graph.PNG)       
 
 ### **One Cycle Policy Implementation**        
-![OCPI.PNG]()  
+![OCPI.PNG](images\OCPI.PNG)  
 
 
 ### **Misclassified Images**      
 
 Below are examples of some missclassified images in the test set:       
-![misclassified_images.PNG]()  
+![misclassified_images.PNG](images\misclassified_images.PNG)  
 
 ### **Grad-CAM on Misclassified images**   
 
 Below are 10 grad-cam example images for misclasified images:        
-![grad1.PNG]()  
-![grad2.PNG]()  
-![grad3.PNG]()  
-![grad4.PNG]()  
-![grad5.PNG]()  
+![grad1.PNG](images\grad1.PNG)  
+![grad2.PNG](images\grad2.PNG)  
+![grad3.PNG](images\grad3.PNG)  
+![grad4.PNG](images\grad4.PNG)  
+![grad5.PNG](images\grad5.PNG)  
